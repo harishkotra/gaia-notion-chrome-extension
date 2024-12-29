@@ -2,6 +2,12 @@
 
 👋 This is a Chrome extension that brings the power of Gaia AI nodes right into your Notion pages. Think of it as your personal AI assistant that sits quietly in the corner of your Notion workspace, ready to help whenever you need it.
 
+![image](https://github.com/user-attachments/assets/5b60a516-46e2-4a22-a54f-f66bad3fbeaa)
+![image](https://github.com/user-attachments/assets/c3e63a49-85dd-4186-9d88-1ce7a53a89c3)
+![image](https://github.com/user-attachments/assets/7e55ef86-6c4e-49cd-a043-b360d6fc8bf8)
+![image](https://github.com/user-attachments/assets/2e77def1-2a39-4729-a005-9c82cba9ef32)
+![image](https://github.com/user-attachments/assets/ae1d2161-07fc-4613-8edc-91a984adb834)
+
 ## What's This All About?
 
 Ever wanted to chat with an AI about your Notion pages? Get quick summaries of long documents? That's what this extension does! Connect your Notion workspace to any Gaia node—those amazing AI models people are building and sharing with the community.

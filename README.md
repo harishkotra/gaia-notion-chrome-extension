@@ -83,7 +83,7 @@ You'll need:
 
 2. Open Chrome Extensions Page
 - Open Google Chrome
-- Type chrome://extensions in the address bar
+- Type `chrome://extensions` in the address bar
 - Or navigate through: Menu (⋮) > More Tools > Extensions
 
 3. Enable Developer Mode
@@ -105,7 +105,7 @@ You'll need:
 2. Set Up a GaiaNet Node
 - Click the extension icon
 - Add your GaiaNet node URL in the settings
-- The URL should end with /v1 (like https://yournode.gaianet.network/v1)
+- The URL should end with `/v1` (like `https://yournode.gaianet.network/v1`)
 
 3. Try It Out
 - Go to any Notion page
